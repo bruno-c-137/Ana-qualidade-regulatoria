@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.258206f4.chunk.css",
+    "main.js": "/static/js/main.d797f528.chunk.js",
+    "main.js.map": "/static/js/main.d797f528.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ee4f04b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ee4f04b.js.map",
+    "static/js/2.95b846ce.chunk.js": "/static/js/2.95b846ce.chunk.js",
+    "static/js/2.95b846ce.chunk.js.map": "/static/js/2.95b846ce.chunk.js.map",
+    "static/js/3.fa9de780.chunk.js": "/static/js/3.fa9de780.chunk.js",
+    "static/js/3.fa9de780.chunk.js.map": "/static/js/3.fa9de780.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.258206f4.chunk.css.map": "/static/css/main.258206f4.chunk.css.map",
+    "static/js/2.95b846ce.chunk.js.LICENSE.txt": "/static/js/2.95b846ce.chunk.js.LICENSE.txt",
+    "static/media/01-pilula-egito-BH.a6284c0e.mp4": "/static/media/01-pilula-egito-BH.a6284c0e.mp4",
+    "static/media/Banner-destaque-3.64b1a79d.png": "/static/media/Banner-destaque-3.64b1a79d.png",
+    "static/media/main.scss": "/static/media/Raleway-Regular.9ade142e.ttf",
+    "static/media/box-1.c8d053b2.png": "/static/media/box-1.c8d053b2.png",
+    "static/media/box-2.7ba840c5.png": "/static/media/box-2.7ba840c5.png",
+    "static/media/box-3.5b391b71.png": "/static/media/box-3.5b391b71.png",
+    "static/media/facebook.d688fa62.svg": "/static/media/facebook.d688fa62.svg",
+    "static/media/img-video.f2254341.png": "/static/media/img-video.f2254341.png",
+    "static/media/instagram.bda08473.svg": "/static/media/instagram.bda08473.svg",
+    "static/media/likindim.e8e5aa9e.svg": "/static/media/likindim.e8e5aa9e.svg",
+    "static/media/logo-footer.f7041e77.svg": "/static/media/logo-footer.f7041e77.svg",
+    "static/media/seta-faq.96ce4ea2.svg": "/static/media/seta-faq.96ce4ea2.svg",
+    "static/media/seta.1ba8a979.svg": "/static/media/seta.1ba8a979.svg",
+    "static/media/twitter.c23406af.svg": "/static/media/twitter.c23406af.svg",
+    "static/media/youtube.aa095760.svg": "/static/media/youtube.aa095760.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ee4f04b.js",
+    "static/js/2.95b846ce.chunk.js",
+    "static/css/main.258206f4.chunk.css",
+    "static/js/main.d797f528.chunk.js"
+  ]
+}
